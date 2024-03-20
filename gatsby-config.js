@@ -10,6 +10,7 @@
 
 const adapter = require("gatsby-adapter-netlify").default
 
+/** @type {import('tailwindcss').Config} */
 module.exports = {
   siteMetadata: {
     title: `Gatsby Default Starter`,
@@ -21,6 +22,8 @@ module.exports = {
       excludeDatastoreFromEngineFunction: false,
   }),
   plugins: [
+    `gatsby-plugin-styled-components`,
+    'gatsby-plugin-postcss',
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
