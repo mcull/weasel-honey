@@ -1,0 +1,64 @@
+
+# gatsby-adapter-netlify start
+/*
+  cache-control: public, max-age=0, must-revalidate
+  x-xss-protection: 1; mode=block
+  x-content-type-options: nosniff
+  referrer-policy: same-origin
+  x-frame-options: DENY
+/static/*
+  cache-control: public, max-age=31536000, immutable
+/framework-6a525285796fb83f2864.js
+  cache-control: public, max-age=31536000, immutable
+/framework-6a525285796fb83f2864.js.LICENSE.txt
+  cache-control: public, max-age=31536000, immutable
+/framework-6a525285796fb83f2864.js.map
+  cache-control: public, max-age=31536000, immutable
+/731-50a6dabafe7d779dd9de.js
+  cache-control: public, max-age=31536000, immutable
+/731-50a6dabafe7d779dd9de.js.LICENSE.txt
+  cache-control: public, max-age=31536000, immutable
+/731-50a6dabafe7d779dd9de.js.map
+  cache-control: public, max-age=31536000, immutable
+/app-a8f0118f129c0f4924bc.js
+  cache-control: public, max-age=31536000, immutable
+/app-a8f0118f129c0f4924bc.js.LICENSE.txt
+  cache-control: public, max-age=31536000, immutable
+/app-a8f0118f129c0f4924bc.js.map
+  cache-control: public, max-age=31536000, immutable
+/component---src-pages-index-js-cb9c92d48ad38662ca42.js
+  cache-control: public, max-age=31536000, immutable
+/component---src-pages-index-js-cb9c92d48ad38662ca42.js.map
+  cache-control: public, max-age=31536000, immutable
+/component---src-pages-using-typescript-tsx-a3cd45a2e02c6d5e4798.js
+  cache-control: public, max-age=31536000, immutable
+/component---src-pages-using-typescript-tsx-a3cd45a2e02c6d5e4798.js.map
+  cache-control: public, max-age=31536000, immutable
+/component---src-pages-using-ssr-js-2fd9537e76fde49860ef.js
+  cache-control: public, max-age=31536000, immutable
+/component---src-pages-using-ssr-js-2fd9537e76fde49860ef.js.map
+  cache-control: public, max-age=31536000, immutable
+/component---src-templates-using-dsg-js-0d54b77c9f5deb8c7989.js
+  cache-control: public, max-age=31536000, immutable
+/component---src-templates-using-dsg-js-0d54b77c9f5deb8c7989.js.map
+  cache-control: public, max-age=31536000, immutable
+/webpack-runtime-e0464d88be6a7e9f99a2.js
+  cache-control: public, max-age=31536000, immutable
+/webpack-runtime-e0464d88be6a7e9f99a2.js.map
+  cache-control: public, max-age=31536000, immutable
+/component---src-pages-page-2-js-f9c0996d9fe1fe70f608.js
+  cache-control: public, max-age=31536000, immutable
+/component---src-pages-page-2-js-f9c0996d9fe1fe70f608.js.map
+  cache-control: public, max-age=31536000, immutable
+/component---src-pages-404-js-64b7b42e3d2efce6fb9f.js
+  cache-control: public, max-age=31536000, immutable
+/component---src-pages-404-js-64b7b42e3d2efce6fb9f.js.map
+  cache-control: public, max-age=31536000, immutable
+/styles.8dc662cd4ca180166645.css/
+  cache-control: public, max-age=31536000, immutable
+/843-4d22e4d87d98fa226c97.js
+  cache-control: public, max-age=31536000, immutable
+/843-4d22e4d87d98fa226c97.js.map
+  cache-control: public, max-age=31536000, immutable
+
+# gatsby-adapter-netlify end
